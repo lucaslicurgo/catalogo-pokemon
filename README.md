@@ -1,2 +1,3 @@
-# catalogo-pokemon
-Essa API é para catalogar Pokemons. Assim pondo em prática autenticação e criptografia.
+# Catálogo Pokemon :man_technologist:
+Esta API ela foi criada para que se cadastre usuários e eles possam, por meio de autenticação, catalogar seus Pokemons.
+
